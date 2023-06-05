@@ -14,7 +14,7 @@
 <img src="Assets/Visual_Studio_Code_1.35_icon.svg" style="height: 50px;"/>
 </p>
 
-<a href='https://leetcode.com/meqt'><img src='https://leetcode.card.workers.dev/meqt?theme=auto&font=baloo'></a>
+<p><img src='https://leetcode.card.workers.dev/meqt?theme=auto&font=baloo'></p>
 
 
 <!---
