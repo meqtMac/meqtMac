@@ -14,8 +14,6 @@
 <img src="Assets/Visual_Studio_Code_1.35_icon.svg" style="height: 50px;"/>
 </p>
 
-<p><img src='https://leetcode.card.workers.dev/meqt?theme=auto&font=baloo'></p>
-
 
 <!---
 meqtMac/meqtMac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
