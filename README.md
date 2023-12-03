@@ -8,13 +8,6 @@
 <img src="Assets/python-logo-only.svg" style="height: 50px;"/>
 </p>
 
-<p style="display: flex; align-items: center;">
-<img src="Assets/xcode-12-96x96_2x.png" style="height: 60px;"/>
-<img src="Assets/Vimlogo.svg" style="height: 50px;"/>
-<img src="Assets/Visual_Studio_Code_1.35_icon.svg" style="height: 50px;"/>
-</p>
-
-
 <!---
 meqtMac/meqtMac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
